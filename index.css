@@ -1,0 +1,76 @@
+.top-bar * {
+	color: white;
+	background-color: #000000;
+}
+
+.texto{
+	color: white;
+	background-color: #757575;
+}
+
+.title  {
+	margin: 0px 300px 0px 50px;
+	font-size: 90px;
+
+}
+
+.title a {
+	color: white;
+	text-decoration: underline;
+
+}
+
+.explicacao{
+	text-align: justify;
+	margin: 0px 300px 0px 50px;
+	/*font-size: 26px;*/
+
+}
+
+.imagem_ex {
+	text-align: center;
+	margin : 0px 300px 0px 50px;
+}
+
+.imagem {
+	margin-left: 22% ;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	border-radius: 5px;
+
+}
+
+html {
+	background-color: #757575;
+
+}
+
+.hr_1 {
+	font-size : 5px ;
+	background-color: black;
+	margin : 0px 300px 0px 50px;
+
+}
+.alunoHR {
+	font-size : 5px;
+	background-color: black;
+}
+
+
+#atual {
+	border: solid 2px white; 
+}
+
+span {
+	text-decoration: underline;
+}
+
+#listU {
+	text-decoration: none;
+}
+
+.link_index {
+	text-decoration: underline;
+	color : white;
+}
